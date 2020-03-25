@@ -1,6 +1,6 @@
 # R-Studio
 Basic to Advanced Projects done in R Studio:
-Quasar - Basic Explanatory Variable Analysis
+\nQuasar - Basic Explanatory Variable Analysis
 Banking - Use of correlation to create linear regression model
 Wateroil - Backward step regression
 Pisa2009 - Variable manipulation for linear regression, ridge, and lasso regression
